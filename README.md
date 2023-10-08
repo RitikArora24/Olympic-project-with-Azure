@@ -1,5 +1,9 @@
 # Olympic-project-with-Azure
 Olympic Data Analytics | Azure End-To-End Data Engineering Project
+
+![ETl-Architecture](https://github.com/RitikArora24/Olympic-project-with-Azure/assets/129395292/341e8a70-cd48-484f-a5c4-14673e17a09a)
+
+
 About Project
 The project is in two part
 1. ETL of Tokyo Olympic data and implementing queries for analysis.
